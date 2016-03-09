@@ -1,5 +1,7 @@
 There are many (7 and counting) ways to make delicious, caffeinated beverages in the Datascope kitchen. Here's a rundown of preferred methods we've discovered over time.
 
+[Nespresso](#nespresso) - [Hario Pour-over](#hario-v60-pour-over-the-ceramic-and-glass-thing) - [Manual Pour-over](#manual-pour-over-the-glass-and-wood-thing) - [Bodum](#bodum-bover-lol-thats-actually-what-its-called) - [Aeropress](#aeropress-the-little-plastic-cylinder-thing) - [Turkish Tea](#turkish-tea) - [Looseleaf Tea](#looseleaf-tea)
+
 # Coffee
 ## Nespresso
 For the quick fix. 
