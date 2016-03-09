@@ -59,21 +59,24 @@ Makes a more concentrated cup, best suited for a single cup of coffee. Lots of w
 Here are a few favorite methods via @bjlange and the Aeropress Timer app on iOS:
 
 #### Espresso-style, from Sweet Maria's [classic method]
-2 scoops, ground at 12.
-Add 2 shots of water (about 2 ticks on the side of the Aeropress)
-Stir for 20 seconds.
-Add the plunger in the top and steep for 15 seconds.
-Push down and plunge for 15 seconds.
+
+- 2 scoops, ground at 12.
+- Add 2 shots of water (about 2 ticks on the side of the Aeropress)
+- Stir for 20 seconds.
+- Add the plunger in the top and steep for 15 seconds.
+- Push down and plunge for 15 seconds.
 
 #### The Bold (more like a strong cup of coffee), from Bold Bean [inverted method]
-1 scoop, ground at 12.
-Add 3.5 shots of water (fill as far as you can with the bloom, leaving a little space for stirring)
-Stir for 45 seconds.
-Add filter, flip, and plunge for 20 seconds.
+
+- 1 scoop, ground at 12.
+- Add 3.5 shots of water (fill as far as you can with the bloom, leaving a little space for stirring)
+- Stir for 45 seconds.
+- Add filter, flip, and plunge for 20 seconds.
 
 # Tea
 ## Turkish Tea
 ### To brew a pot:
+
 1. Heat water to boiling in the bottom kettle.
 2. Add a whole mess of black Turkish tea to the top kettle.
 3. Add hot water to top kettle and let steep for 10-15 minutes, turn the burner to "warm"
