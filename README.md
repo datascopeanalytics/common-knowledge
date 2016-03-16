@@ -7,3 +7,6 @@ A wiki (or pile of Markdown files) comprising our collective knowledge on variou
 ## Data Sciencey Things
 
 ## Software Engineeringey Things
+
+## Caffeine
+- [Brew Methods (coffee + tea)](brew-methods.md)
