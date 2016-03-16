@@ -93,7 +93,7 @@ Here are a few favorite methods via @bjlange and the Aeropress Timer app on iOS:
   > energy directly goes into the water).
 
 4. Once the water in the electric kettle boils, add it to the bottom kettle of the setup.
-5. Let all the water boil in the bottom kettle for a 2-5 minutes to make sure the leaves in the top kettle open up with heat.
+5. Let all the water boil in the bottom kettle for 2-5 minutes to make sure the leaves in the top kettle open up with heat.
 6. Add hot water to top kettle until all tea is covered with water (a bit more than half way or all the way to the top depending on how much tea you used) and turn the burner all the way back down to "warm".
 7. Let the tea in the top part steep for 15 minutes.
 8. The tea is now ready. The "warm" setting will keep it warm all day without scorching. Don't forget to turn the burner off at the end of the day.
