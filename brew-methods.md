@@ -77,10 +77,26 @@ Here are a few favorite methods via @bjlange and the Aeropress Timer app on iOS:
 ## Turkish Tea
 ### To brew a pot:
 
-1. Heat water to boiling in the bottom kettle.
-2. Add a whole mess of black Turkish tea to the top kettle.
-3. Add hot water to top kettle and let steep for 10-15 minutes, turn the burner to "warm"
-The tea will stay warm all day without scorching.
+1. Fill the electric kettle (not either top or bottom kettle of the setup, the standalone electic kettle) and start heating it.
+2. Put a whole mess of black Turkish tea in the top kettle of the setup. 7-8 tablespoons will be enough for an entire day of multiple tea servings for multiple people.
+ 
+  > The specific amount of tea determines how much total tea we can drink, but doesn't directly affect the strength of anyone's individual 
+  > glasses of tea. We will make a really concentrated tea in the top kettle of the setup (this will be too bitter and strong to drink 
+  > directly), and the bottom kettle will have just hot water. When drinking, you will mix the concentrated tea with the water from the 
+  > bottom to reach a strength that's just right for you.
+
+3. Put some (not too much) water in the bottom kettle of the setup, and turn the knob of the electric stove top all the way to 5.
+
+  > The normal method involves filling the bottom with water and heating until boiling, while the steam and heat from the bottom kettle
+  > heats up and deliciousifies the tea leaves in the top one. However, our electric cooktop is not powerful enough to boil that much water
+  > (some energy is lost to the air), so we are cheating a bit by getting help from the electric kettle (which is more efficient since most
+  > energy directly goes into the water).
+
+4. Once the water in the electric kettle boils, add it to the bottom kettle of the setup.
+5. Let all the water boil in the bottom kettle for a 2-5 minutes to make sure the leaves in the top kettle open up with heat.
+6. Add hot water to top kettle until all tea is covered with water (a bit more than half way or all the way to the top depending on how much tea you used) and turn the burner all the way back down to "warm".
+7. Let the tea in the top part steep for 15 minutes.
+8. The tea is now ready. The "warm" setting will keep it warm all day without scorching. Don't forget to turn the burner off at the end of the day.
 
 ### To drink it:
 The tea in the top kettle is very concentrated, pour 30-40% of your glass and then top off with hot water. You may also want to add sugar if you prefer.
