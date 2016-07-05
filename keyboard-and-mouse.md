@@ -1,4 +1,4 @@
-## Troubleshooting for Datascope pairing desk keyboard + mouse setups
+# Troubleshooting for Datascope pairing desk keyboard + mouse setups
 
 ## First things to check
 - Ensure you're plugged into the desk Thunderbolt connection. If you're connected to the monitor, this is true.
@@ -10,5 +10,11 @@ If tapping the power button on the top right of the devices doesn't cause a litt
 
 ### You may be pairing over your computer's internal Bluetooth instead of the desk's builtin Bluetooth module.
 To determine this, go to `System Preferences > Bluetooth` and check "Show Bluetooth in menu bar". Now that you can see the Bluetooth logo (kinda looks like a weird B) in your top menu bar, hold down Alt/Option and click it. You should see an "Address" section in the drop down; if you're connected via the desk, the address should start with `5C-F3-70`
+
+## Things you can try
+- Disconnect and reconnect to the Thunderbolt dock
+- Turn off Bluetooth and turn it on again
+- Turn the keyboard/trackpad all the way off by holding down the power button until the light turns off, then hold it down to turn it on again.
+- Ask if someone else nearby is paired to the keyboards (they shouldn't be)
 
 All else fails, find Brian. He set these up and can help.
